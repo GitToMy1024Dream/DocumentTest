@@ -1,1 +1,2 @@
-# DocumentTest
+DocumentTest
+Test merge and rebase.
