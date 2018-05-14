@@ -11,3 +11,5 @@ mergeTest branch add new content3
 rebaseTest branch add new content3
 
 mergeTest branch add new content4
+
+rebaseTest branch add new content4
