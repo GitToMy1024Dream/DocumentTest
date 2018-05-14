@@ -3,3 +3,5 @@ Test git merge and rebase
 rebaseTest branch add new content1
 
 mergeTest branch add new content1
+
+mergeTest branch add new content2
