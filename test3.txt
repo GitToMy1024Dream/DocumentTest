@@ -5,3 +5,5 @@ rebaseTest branch add new content1
 mergeTest branch add new content1
 
 mergeTest branch add new content2
+
+mergeTest branch add new content3
