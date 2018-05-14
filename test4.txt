@@ -1,1 +1,3 @@
 Test git merge and rebase
+
+mergeTest branch add new content1
