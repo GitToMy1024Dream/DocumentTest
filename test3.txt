@@ -7,3 +7,5 @@ mergeTest branch add new content1
 mergeTest branch add new content2
 
 mergeTest branch add new content3
+
+mergeTest branch add new content4
